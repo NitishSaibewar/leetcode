@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/NitishSaibewar/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/NitishSaibewar/leetcode/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NitishSaibewar/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/NitishSaibewar/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/NitishSaibewar/leetcode/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NitishSaibewar/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NitishSaibewar/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/NitishSaibewar/leetcode/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/NitishSaibewar/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Counting Sort
 |  |
 | ------- |
